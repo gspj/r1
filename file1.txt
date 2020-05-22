@@ -1,5 +1,9 @@
 line 1
 line 2
-
+line foo
 line 4
 line 5
+
+line bar
+line baz
+line qux
