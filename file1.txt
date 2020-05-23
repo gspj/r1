@@ -9,3 +9,6 @@ line bar
 line qux
 
 line asdf
+
+here is added material after fork
+the quick brown fox jumped over the lazy dog
